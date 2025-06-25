@@ -1,0 +1,14 @@
+project:
+  type: website
+
+metadata-files:
+  - reference/_sidebar.yml
+
+quartodoc:
+  package: squares
+  sidebar: reference/_sidebar.yml
+  sections:
+    - title: Average Squares
+      contents:
+        - squares.average_of_squares
+        - squares.convert_numbers
