@@ -1,4 +1,4 @@
-"""Computation of weighted average of squares."""
+"""Computation of weighted average of squares. This is on the new branch"""
 
 
 def average_of_squares(list_of_numbers, list_of_weights=None):
